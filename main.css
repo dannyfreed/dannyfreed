@@ -416,4 +416,7 @@ footer .inner > div {
 	.company-screenshots {
 		display: none;
 	}
+	.heartbeat .circle {
+		border: 1px solid #ededed;
+	}
 }
